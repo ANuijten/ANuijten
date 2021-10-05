@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ANuijten
-- 👀 I’m interested in drug policy
+- 👀 I’m interested in history and drug policy.
 - 🌱 I’m currently learning how to write and create documents using Atom, Pandoc and Github.
 
 <!---
